@@ -1,9 +1,11 @@
-# from-zero-to-willvcr
-# from-zero-to-willvcr
+# From Zero to WillVCR
 
-Documenting the complete journey of building my personal website from scratch with WordPress.
+Documenting the complete journey of building my personal website from scratch using WordPress.
 
-In order to create the page we need to:
--Brainstorming the design.
--Understand what is the reason for this webpage.
--What I would like to show that I think it is a priority.
+Before starting the development process, I need to:
+
+- Brainstorm the website’s design and visual identity.
+- Define the main purpose of the website.
+- Identify the content and information I want to prioritize.
+- Plan the website’s pages and overall structure.
+- Choose the tools, theme, and resources needed to build it.
