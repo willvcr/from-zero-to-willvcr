@@ -9,4 +9,4 @@ Before starting the development process, I need to:
 - Identify the content and information I want to prioritize.
 - Plan the website’s pages and overall structure.
 - Choose the tools, theme, and resources needed to build it.
-- Select the images that will be used throughout the website.
+- Research, select, and prepare the images that will be used throughout the website.
