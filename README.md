@@ -11,3 +11,4 @@ Before starting the development process, I need to:
 - Choose the tools, theme, and resources needed to build it.
 - Research, select, and prepare the images that will be used throughout the website.
 - Refine the website’s color palette and research, select, and prepare images that create a balanced and cohesive visual identity.
+- Define a consistent typography, spacing, and layout system that complements the website’s color palette and imagery.
