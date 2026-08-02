@@ -14,3 +14,10 @@ Before starting the development process, I need to:
 - Define a consistent typography, spacing, and layout system that complements the website’s color palette and imagery.
 - Optimize all images for web performance and accessibility by selecting appropriate dimensions, file formats, compression levels, and alternative text.
 - Typography is one of the most important elements of the website’s visual identity. The selected fonts should reflect the website’s personality and purpose while creating a professional, approachable, and cohesive experience.
+- The typography system should:
+- Establish a clear hierarchy for headings, subheadings, body text, navigation, buttons, and other interface elements.
+- Maintain consistency across every page of the website.
+- Remain readable and accessible on desktop computers, tablets, and mobile devices.
+- Use balanced font pairings, sizes, weights, line spacing, letter spacing, and contrast.
+- Complement the website’s colors, images, and overall design.
+- Be optimized for the web to avoid negatively affecting loading speed.
