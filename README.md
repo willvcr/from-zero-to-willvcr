@@ -13,3 +13,4 @@ Before starting the development process, I need to:
 - Refine the website’s color palette and research, select, and prepare images that create a balanced and cohesive visual identity.
 - Define a consistent typography, spacing, and layout system that complements the website’s color palette and imagery.
 - Optimize all images for web performance and accessibility by selecting appropriate dimensions, file formats, compression levels, and alternative text.
+- Typography is one of the most important elements of the website’s visual identity. The selected fonts should reflect the website’s personality and purpose while creating a professional, approachable, and cohesive experience.
